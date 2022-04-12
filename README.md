@@ -1,16 +1,18 @@
-### Hi there 👋
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-<!--
-**alxbilger/alxbilger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Computational Scientist at Inria
+- Senior C++ developer
+- PhD title: _Patient-specific biomechanical simulation for deep brain stimulation_
 
-Here are some ideas to get you started:
+## :computer: Technologies I Love
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C++
+* Physics simulation
+* GPU programming
+* Game Development
+
+## :briefcase: Current Project
+
+Matrix assembly in [SOFA](https://github.com/sofa-framework/sofa)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofa-framework&repo=sofa)](https://github.com/anuraghazra/github-readme-stats)
