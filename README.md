@@ -1,4 +1,4 @@
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: About Me
 
 - Computational Scientist at Inria
 - Senior C++ developer
